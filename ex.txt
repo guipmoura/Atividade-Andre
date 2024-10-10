@@ -1,5 +1,6 @@
 primeira linha 
 segunda linha
+<<<<<<< HEAD
 terceira linha
 quarta linha (revert)
 quinta linha
@@ -10,3 +11,6 @@ nona linha
 decima linha
 terceira linha
 
+=======
+terceira linha
+>>>>>>> parent of 4d62e44 (estou adicionando minha quarta  linha)
